@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "592963d6a0f781bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "36988dff5eeea078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59f26eceacffced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日暮誌/日暮誌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日暮誌"
+            }
+          },
+          {
+            "id": "02c3ff5bc7a5d002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日暮誌/日暮誌.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日暮誌"
+            }
+          },
+          {
+            "id": "6a7e5a02405e9502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日暮誌/2025年/2025年07月/2025年07月.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025年07月"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4464f37bbb886f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5817ff2bb8fb118",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403f16916d41b9f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "1ed4cf9492b2ab46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "767ec0f7cdceb8f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"date\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2f8941fb5e6e6a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9d4f2b0b298f719",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af9deb26cae8887b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quarterly notes/2025-Q3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-Q3へのバックリンク"
+            }
+          },
+          {
+            "id": "71adc030ad3cc460",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b2c9afd8603532c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quarterly notes/2025-Q3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-Q3からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "559d2bfc634987a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日暮誌/日暮誌.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "日暮誌のアウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新規キャンバスを作成": false,
+      "command-palette:コマンドパレットを開く": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "periodic-notes:Open this week": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "403f16916d41b9f9",
+  "lastOpenFiles": [
+    "Share",
+    "Knowledges.Share",
+    "日暮誌/日暮誌.md",
+    "日暮誌",
+    "Share/Templates/Archetypes/日次.md",
+    "Share/Templates/Archetypes/無題のファイル 1.md",
+    "Share/Templates/Archetypes/2025年07月22日.md",
+    "Share/Templates/Archetypes/無題のファイル.md",
+    "Share/Templates/Archetypes/日記.md",
+    "日暮誌/2025年/2025年Q3/2025年28週.md",
+    "Share/Templates/Archetypes/週次.md",
+    "日暮誌/2025年/2025年07月/2025年07月.md",
+    "日暮誌/2025年/2025年Q3",
+    "Share/Templates/view.js",
+    "Settings.md",
+    "Fuck.md",
+    "2025年08月.md",
+    "Share/Templates/Archetypes/月次.md",
+    "2025年07月15日.md",
+    "日暮誌/2025年/2025年07月/2025年07月15日/2025年07月15日.md",
+    "日暮誌/2025年/2025年07月/2025年07月15日",
+    "日暮誌/無題のファイル.md",
+    "Inbox/無題のファイル 1.md",
+    "Yearly notes/2025.md",
+    "無題のファイル.md",
+    "Inbox/無題のファイル.md",
+    "Inbox/2025年07月32日.md",
+    "Share/Templates/Archetypes/既定.md",
+    "日暮誌/2025年/2025年07月/2025年07月12日/2025年07月12日.md",
+    "日暮誌/2025年/2025年07月/2025年07月12日/2025年07月30日.md",
+    "日暮誌/2025年/2025年07月/2025年07月12日/2025年07月14日.md",
+    "Inbox",
+    "日暮誌/2025年/2025年07月/2025年07月12日",
+    "Quarterly notes",
+    "Yearly notes",
+    "Weekly notes"
+  ]
+}

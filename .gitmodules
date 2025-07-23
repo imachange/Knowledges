@@ -1,0 +1,3 @@
+[submodule "Share"]
+	path = Share
+	url = git@github.com:imachange/Knowledges.Share.git
