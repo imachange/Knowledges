@@ -4,5 +4,15 @@
   "hideEmptyEntryInSideDock": false,
   "propertiesVisible": "",
   "propertyHideAll": "hide",
-  "entries": []
+  "entries": [
+    {
+      "name": "params",
+      "hide": {
+        "tableInactive": true,
+        "tableActive": true,
+        "fileProperties": true,
+        "allProperties": true
+      }
+    }
+  ]
 }

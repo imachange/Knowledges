@@ -3,5 +3,8 @@
   "folder-notes",
   "obsidian-front-matter-title-plugin",
   "periodic-notes",
-  "templater-obsidian"
+  "templater-obsidian",
+  "hide-folders",
+  "metadata-hider",
+  "metadata-menu"
 ]
